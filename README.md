@@ -4,7 +4,10 @@
 
  ## basic Vulkan-tutorial
 
+## Scene Graph
 
+* [A brief introduction to scene graph](http://what-when-how.com/advanced-methods-in-computer-graphics/scene-graphs-advanced-methods-in-computer-graphics-part-1/)
+* [Advanced method in computer graphics](http://what-when-how.com/category/advanced-methods-in-computer-graphics/)
 
 ## Samples
 
@@ -30,6 +33,14 @@
 
   A collection of books.
 
+## Best Practices
+
+* [Samsung gamedev blog](https://developer.samsung.com/galaxy-gamedev/overview.html)
+
+## Papers
+
+* Designing a Modern Rendering Engine --- a master thesis
+
 ## Books
 
 * Real-time graphic rendering engine
@@ -39,6 +50,7 @@
 * C++ game development by example
 * Vulkan SDK document v1.2
 * Vulkan 编程指南
+* FundamentalsReal-TimeCameraDesign
 
 ## Videos
 
@@ -50,6 +62,7 @@
 * [Vulkan Memory Management](https://youtu.be/rXSdDE7NWmA)
 * [Some Seriously Explicit Lessons in Vulkan – Reboot Develop Blue 2019](https://youtu.be/qbJbFXwHjDY)
 * [Making Use of New Vulkan Features - GDC 2019](https://youtu.be/GnnEmJFFC7Q)
+* [Vulkan Loader Deep Dive](https://youtu.be/P0piLVqEi7Q)
 
 ## Render Effects
 
