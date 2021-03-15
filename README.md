@@ -23,6 +23,10 @@
 
   How to get performance.
 
+* [LMU CG Courses](https://github.com/mimuc)
+   
+  Geometry Mesh Processing & CG Demos & Codes.
+
 ## Conferences
 
 * [Siggraph](http://advances.realtimerendering.com/)
