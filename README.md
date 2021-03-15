@@ -67,6 +67,7 @@
 * [Some Seriously Explicit Lessons in Vulkan – Reboot Develop Blue 2019](https://youtu.be/qbJbFXwHjDY)
 * [Making Use of New Vulkan Features - GDC 2019](https://youtu.be/GnnEmJFFC7Q)
 * [Vulkan Loader Deep Dive](https://youtu.be/P0piLVqEi7Q)
+* [Computational Conformal Geometry including Lecture Slides](https://www3.cs.stonybrook.edu/~gu/lectures/2020/)
 
 ## Render Effects
 
