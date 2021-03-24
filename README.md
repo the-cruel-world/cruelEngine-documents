@@ -24,7 +24,7 @@
   How to get performance.
 
 * [LMU CG Courses](https://github.com/mimuc)
-   
+  
   Geometry Mesh Processing & CG Demos & Codes.
 
 ## Conferences
@@ -68,6 +68,7 @@
 * [Making Use of New Vulkan Features - GDC 2019](https://youtu.be/GnnEmJFFC7Q)
 * [Vulkan Loader Deep Dive](https://youtu.be/P0piLVqEi7Q)
 * [Computational Conformal Geometry including Lecture Slides](https://www3.cs.stonybrook.edu/~gu/lectures/2020/)
+* [Physics Animation in Uncharted 4: A Thief's End](https://youtu.be/7S-_vuoKgR4)
 
 ## Render Effects
 
