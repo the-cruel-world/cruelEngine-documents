@@ -41,11 +41,11 @@
 
 * [Samsung gamedev blog](https://developer.samsung.com/galaxy-gamedev/overview.html)
 
-## Papers
+## Papers/
 
 * Designing a Modern Rendering Engine --- a master thesis
 
-## Books
+## Books/
 
 * Real-time graphic rendering engine
 * Vulkan programming guide
@@ -55,6 +55,10 @@
 * Vulkan SDK document v1.2
 * Vulkan 编程指南
 * FundamentalsReal-TimeCameraDesign
+* Real-Time Rendering
+  * Original [En]
+  * Summary [Zh]
+  * [mindmap](/home/yiwen/program/cruelworld/documents/books/Real-Time_Rendering_3rd_mindmap.jpg)
 
 ## Videos
 
