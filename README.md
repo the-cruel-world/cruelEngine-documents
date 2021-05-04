@@ -8,6 +8,10 @@
 
 * [A brief introduction to scene graph](http://what-when-how.com/advanced-methods-in-computer-graphics/scene-graphs-advanced-methods-in-computer-graphics-part-1/)
 * [Advanced method in computer graphics](http://what-when-how.com/category/advanced-methods-in-computer-graphics/)
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
+* [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph)
+* [Simple SceneGraph Library](https://github.com/vahlers/scg3)
+* [Another Simple SceneGraph Library](https://github.com/cpvrlab/SLProject)
 
 ## Samples
 
