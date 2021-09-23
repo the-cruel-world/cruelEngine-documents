@@ -85,3 +85,9 @@
 [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine) Render API wrap for Vulkan and D3D12
 
 ## Render Performance
+
+
+## Physics Engine
+
+* [Advanced Character Physics](http://web.archive.org/web/20080410171619/http://www.teknikus.dk/tj/gdc2001.htm)
+* [Continuous Collision](http://www.gdcvault.com/play/1018239/Physics-for-Game-Programmers-Continuous)
